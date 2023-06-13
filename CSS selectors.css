@@ -1,0 +1,26 @@
+h1{
+    color: rgb(167, 15, 15);
+}
+p{
+    color: blue;
+}
+#select{
+    color: rgb(132, 0, 255);
+}
+li{
+    color: rgb(73, 82, 79);
+}
+#sel{
+    color: rgb(255, 141, 2);
+}
+
+
+.color{
+    color: rgb(173, 32, 143);
+}
+*{
+    text-align: center;
+}
+ol{
+    text-align: center;
+}
